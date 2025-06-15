@@ -1,6 +1,7 @@
 /*
  * NSR CDI 測試機 NSR CDI Tester
- * Author: 重新整理 by ChatGPT
+ * Author: 羽山秋人 (https://3wa.tw)
+ * Author: 整理 by ChatGPT
  * MCU: ATTiny85 (Internal 16 MHz)
  * TM1637: CLK=PB0(5), DIO=PB1(6)
  * VR input: PB3 (A3)
