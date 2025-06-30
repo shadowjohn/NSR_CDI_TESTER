@@ -2,6 +2,9 @@
  * NSR CDI 測試機 NSR CDI Tester
  * MCU: ATTiny85 (Internal 16 MHz)
  * VR控制RPM、PWM模擬激磁、TM1637顯示RPM
+ * Author: 羽山 (https://3wa.tw)
+ * Date: 2025-06-29
+ * Version: V0.02
  */
 
 #include <Arduino.h>
